@@ -3,6 +3,7 @@ TinyMCE 5 WYSIWYG editöründe File(Dosya) menüsü altında çalışan Save(Kay
 
 editor.js dosyasını indirip aşağıdaki şekilde kaydedebilirsiniz.
 
+```
 <!DOCTYPE html>
 <html lang="tr" >
 <head>
@@ -21,3 +22,4 @@ editor.js dosyasını indirip aşağıdaki şekilde kaydedebilirsiniz.
 
 </body>
 </html>
+```
