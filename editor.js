@@ -14,9 +14,9 @@ tinymce.init({
       icon: "save",
       disabled: true,
       onSetup: (api) => {
-        if (tinymce.activeEditor.isDirty())
-        api.setDisabled(false);
-        return () => {};
+        if (tinymce.activeEditor.isDirty()) {
+          api.setDisabled(false);
+        }
       },
       onAction: () => {
         editor.execCommand("mceSave");
