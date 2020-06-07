@@ -23,5 +23,5 @@ editor.js dosyasını indirip aşağıdaki şekilde kaydedebilirsiniz.
 </body>
 </html>
 ```
-## Kaydet Menüsü:
+## Kaydet Menü Elemanı:
 ![](Images/tinymce.png)
