@@ -21,6 +21,7 @@ tinymce.init({
       onAction: function() {
         tinymce.activeEditor.execCommand('mceSave');
       }
-    
+    });
+
   },
 });
